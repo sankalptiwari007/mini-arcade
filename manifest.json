@@ -1,0 +1,10 @@
+{
+  "name": "MINI ARCADE V7",
+  "short_name": "Mini Arcade",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "Premium offline-first mini arcade with 25 playable games.",
+  "icons": []
+}
